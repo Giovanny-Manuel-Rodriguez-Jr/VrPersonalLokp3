@@ -9,6 +9,7 @@ public class ClockTurn : MonoBehaviour
     public GameObject secHand;
     public GameObject minHand;
     public GameObject hourHand;
+    
 
     // Start is called before the first frame update
     void Start()
